@@ -5,7 +5,6 @@ This repository showcases a growing collection of Power BI projects focused on d
 ## 🔍 What You'll Find
 
 - `.pbix` files containing complete dashboards and reports
-- Source datasets used for each project
 - Notes or documentation explaining key logic (when available)
 
 Projects vary in scope and complexity, and new ones will be added over time.
