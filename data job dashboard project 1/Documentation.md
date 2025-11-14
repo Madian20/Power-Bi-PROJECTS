@@ -1,7 +1,7 @@
 # 📊 Data Jobs Dashboard
 
 An interactive Power BI dashboard that explores key metrics and visual insights related to data-focused job roles across industries.
-![k](/data job dashboard project 1/images/Screenshot 2025-11-14 175925.png)
+![](/images/Screenshot 2025-11-14 175925.png)
 
 ## 🧠 Overview
 
