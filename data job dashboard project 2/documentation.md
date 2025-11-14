@@ -1,50 +1,46 @@
-# 📊 Data Job Dashboard – Documentation
+# 📊 Data Job Market Dashboard (2024)
 
-## 🧩 Overview
-This Power BI project analyzes the 2024 data job market using interactive dashboards. It provides insights into job trends, salary distributions, job types, and platform sources.
-
----
-
-## 📈 Key Metrics
-- **Total Job Count**: 478,895
-- **Median Yearly Salary**: $113K
-- **Median Hourly Salary**: $47.62
-- **Salary Rating**: ★★★★★
+This Power BI project analyzes the data job market in 2024 using interactive dashboards. It provides insights into job counts, salary distributions, role comparisons, and platform sources.
 
 ---
 
-## 📊 Visualizations
+## 🧩 Page 1: General Market Overview
 
-### 🔹 Job Trend Over Time
-- Monthly job counts from January to November 2024.
-- Highlights seasonal fluctuations and hiring dips.
+### 🔹 Summary
+The main dashboard presents a high-level view of the data job landscape, including:
 
-### 🔹 Highest Paying Roles
-- Bar chart comparing salaries across job titles.
-- Top roles include:
-  - Machine Learning Engineer
-  - Senior Data Scientist
-  - Senior Data Engineer
+- **Total Job Count**: 478,895  
+- **Median Yearly Salary**: $113K  
+- **Median Hourly Salary**: $47.62  
+- **Salary Rating**: ★★★★★  
 
-### 🔹 Salary Comparison
-- Scatter plot showing hourly vs yearly salary for each role.
+### 📈 Visual Highlights
+- Monthly job trends across 2024
+- Highest paying roles in the data field
+- Hourly vs yearly salary comparison
+- Job title statistics table
 
-### 🔹 Job Title Table
-- Includes job count, yearly/hourly salary, and trend indicators for 11 roles.
+### 🖼️ Dashboard Image
+![General Dashboard](./images/data-job-dashboard.png)
 
 ---
 
-## 🔍 Drill-Through Feature
-- Allows detailed exploration of individual job titles.
-- Example: "Data Engineer" view shows salary ranges, WFH %, degree requirements, and platform distribution.
-- **Note**: This view is specific to selected roles and not representative of all jobs.
+## 🧵 Page 2: Drill-Through Example
+
+This secondary view is a **drill-through example** focused on the "Data Engineer" role.  
+It demonstrates how users can explore specific job titles in more detail from the main dashboard.
+
+> 🔹 This page is illustrative only and not part of the core analysis.
+
+### 🖼️ Drill-Through Image
+![Drill-Through Example](./images/data-engineer-drillthrough.png)
 
 ---
 
 ## 🗂️ Data Sources
-- `funnel_data`
 - `job_postings_flat`
+- `funnel_data`
 - `waterfall_data`
 
 ## 🛠️ Tools Used
-- Power BI (interactive visuals, filters, drill-through)
+- Power BI (interactive visuals, filters, drill-through navigation)
