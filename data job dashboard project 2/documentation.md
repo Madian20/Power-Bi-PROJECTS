@@ -5,6 +5,7 @@ This Power BI project analyzes the data job market in 2024 using interactive das
 ---
 
 ## 🧩 Page 1: General Market Overview
+<img width="1286" height="721" alt="image" src="https://github.com/user-attachments/assets/6ec3442e-c247-444b-a91a-2efdc603fafd" />
 
 ### 🔹 Summary
 The main dashboard presents a high-level view of the data job landscape, including:
