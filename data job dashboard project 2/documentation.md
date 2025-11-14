@@ -20,22 +20,15 @@ The main dashboard presents a high-level view of the data job landscape, includi
 - Highest paying roles in the data field
 - Hourly vs yearly salary comparison
 - Job title statistics table
-
-### 🖼️ Dashboard Image
-![General Dashboard](./images/data-job-dashboard.png)
-
 ---
 
 ## 🧵 Page 2: Drill-Through Example
+<img width="1295" height="726" alt="image" src="https://github.com/user-attachments/assets/7c8e72cc-bb5c-4fbf-820a-2dc8e6c527f2" />
 
 This secondary view is a **drill-through example** focused on the "Data Engineer" role.  
 It demonstrates how users can explore specific job titles in more detail from the main dashboard.
 
 > 🔹 This page is illustrative only and not part of the core analysis.
-
-### 🖼️ Drill-Through Image
-![Drill-Through Example](./images/data-engineer-drillthrough.png)
-
 ---
 
 ## 🗂️ Data Sources
