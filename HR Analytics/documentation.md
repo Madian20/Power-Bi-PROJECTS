@@ -1,5 +1,6 @@
 # HR Analytics Dashboard
 
+<img width="1438" height="800" alt="image" src="https://github.com/user-attachments/assets/be1abae9-eab9-434a-bcee-c3db188ccdc4" />
 
 ## Overview
 A comprehensive Power BI dashboard for human resources analytics and workforce management. This project provides key insights into employee data, compensation, headcount distribution, and hiring trends.
